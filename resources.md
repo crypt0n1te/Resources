@@ -23,7 +23,7 @@ https://overthewire.org/wargames/
 A great site to focus on the more red team based hacking.
 
 
-Now some more specific categories:
+**Now some more specific categories:**
 
 ## Cryptography:
 
