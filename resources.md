@@ -69,4 +69,4 @@ Although not for everyone, codecademy provides a practical hands on approach to 
 
 
 We will also update this resource as regularly as possible
-> Last updated: 8th June 2020 by Christopher Harris (@cjharris18).
+> Last updated: 8th June 2020 by Spam.
