@@ -62,7 +62,7 @@ https://www.freecodecamp.org/learn/
 A great resource for learning code, especially for the web languages.
 
 ### Bash Academy:
-https://www.bash.academy/
+https://guide.bash.academy/
 
 Although Bash is simple, it is a great language to learn and this site makes it easy.
 
