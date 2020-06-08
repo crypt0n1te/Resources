@@ -30,7 +30,7 @@ The name says it all, great for a recap when using certain tools such as nmap et
 ### Useful Rabbit Hole: 
 https://github.com/ED-209-MK7/5pillars/blob/master/5-Pillars.md
 
-More links and helpful resources, as well a more detailed approach on learning Cyber Security
+More links and helpful resources, as well a more detailed approach on learning Cyber Security.
 
 **Now some more specific categories:**
 
@@ -65,6 +65,11 @@ A great resource for learning code, especially for the web languages.
 https://www.bash.academy/
 
 Although Bash is simple, it is a great language to learn and this site makes it easy.
+
+### (More) Bash:
+https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh
+
+Just some **very** helpful commands and tips on getting started with bash to increase your efficiency.
 
 ### Codecademy:
 https://www.codecademy.com/
