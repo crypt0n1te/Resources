@@ -15,12 +15,17 @@ A great site for practising your hacking skills.
 ### TryHackMe:
 https://tryhackme.com/
 
-Another site for practising your hacking skills.
+Another site for practising your hacking skills. You can take part in KOTHs (King Of The Hills) which also have a blue team focus, a good way to improve blue team skills. 
 
 ### OverTheWire:
 https://overthewire.org/wargames/
 
 A great site to focus on the more red team based hacking.
+
+### CTFLearn:
+https://ctflearn.com/
+
+A platform hosting a multitude of ctf-like challenges to try out, starting with very basic beginner challenges and progressing in difficulty. 
 
 ### Cheatsheets:
 https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
