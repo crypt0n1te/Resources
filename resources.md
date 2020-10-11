@@ -86,11 +86,15 @@ https://www.codecademy.com/
 
 Although not for everyone, codecademy provides a practical hands on approach to learning programming. The best thing about Codecadamy is the sheer number of languages avaible to learn.
 
+### Programming in C:
+https://www.amazon.co.uk/gp/product/0321776410/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+
+A little different to other resources on this list,but this is a great book for getting into C.
+
 ## Osint:
 https://osintframework.com/
 
 There are a lot of available resources at the above link, However, currently as of the time of writing there are no free courses available in the `Training` section.
-
 
 We will also update this resource as regularly as possible
 > Last updated: 12th June by Christopher Harris (@cjharris18).
