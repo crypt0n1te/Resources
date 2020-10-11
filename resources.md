@@ -97,4 +97,4 @@ https://osintframework.com/
 There are a lot of available resources at the above link, However, currently as of the time of writing there are no free courses available in the `Training` section.
 
 We will also update this resource as regularly as possible
-> Last updated: 12th June by Christopher Harris (@cjharris18).
+> Last updated: 11th October 2020 by Chris Harris (@cjharris18).
