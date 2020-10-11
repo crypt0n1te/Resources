@@ -96,5 +96,15 @@ https://osintframework.com/
 
 There are a lot of available resources at the above link, However, currently as of the time of writing there are no free courses available in the `Training` section.
 
+
+## Maths Resources
+Although not explicitly linked to cyber security, you might find the below links useful:
+
+### Learning LaTex:
+https://en.wikibooks.org/wiki/LaTeX
+
+This is a great resource for learning more about Latex and its usage.
+
+
 We will also update this resource as regularly as possible
 > Last updated: 11th October 2020 by Chris Harris (@cjharris18).
