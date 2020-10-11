@@ -107,4 +107,4 @@ This is a great resource for learning more about Latex and its usage.
 
 
 We will also update this resource as regularly as possible
-> Last updated: 11th October 2020 by Chris Harris (@cjharris18).
+> Last updated: 11th October 2020 by Christopher Harris (@cjharris18).
