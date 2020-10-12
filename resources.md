@@ -105,6 +105,13 @@ https://en.wikibooks.org/wiki/LaTeX
 
 This is a great resource for learning more about Latex and its usage.
 
+## Learning GitHub:
+Sometimes Git can be a big learning curve, below are our curated resources for mastering Git.
+
+### Git Common Mistakes and Fixes:
+https://ohshitgit.com/
+
+The name says it all, this resource basically shows mistakes made by the author and how he fixed them.
 
 We will also update this resource as regularly as possible
-> Last updated: 11th October 2020 by Christopher Harris (@cjharris18).
+> Last updated: 12th October 2020 by Christopher Harris (@cjharris18).
