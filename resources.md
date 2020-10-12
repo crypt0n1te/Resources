@@ -22,6 +22,11 @@ https://overthewire.org/wargames/
 
 A great site to focus on the more red team based hacking.
 
+### RACTF:
+https://www.ractf.co.uk/
+
+Created by some good friends of ours as well as other members of the Cyber Discovery community, this is a great CTF for all abilities that you should register interest for.
+
 ### CTFLearn:
 https://ctflearn.com/
 
@@ -30,7 +35,7 @@ A platform hosting a multitude of ctf-like challenges to try out, starting with 
 ### Cheatsheets:
 https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
 
-The name says it all, great for a recap when using certain tools such as nmap etc.
+With having done Sans courses, especially those with GIAC exams, this is a very useful resource.
 
 ### Useful Rabbit Hole: 
 https://github.com/ED-209-MK7/5pillars/blob/master/5-Pillars.md
