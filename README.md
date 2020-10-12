@@ -7,3 +7,5 @@ Just a general repository for resources we find. I have made this public so feel
 ```crypt0nite1@protonmail.com```
 
 We accept pretty much any suggestions you have, ~~although free udemy courses might be crossing the line~~
+
+Soup is the very best
