@@ -7,6 +7,11 @@ https://joincyberdiscovery.com/
 
 Cyber Discovery is a good place to start for all those aged 13-18. If you have not already checked out Cyber Discovery then be sure too.
 
+### PicoCTF:
+https://picoctf.org/   
+
+Also aimed at students, picoctf is a platform where you can practice ctf challenges that start from the very basics, so is good for beginners.
+
 ### Hack The Box:
 https://www.hackthebox.eu/
 
@@ -26,6 +31,7 @@ A great site to focus on the more red team based hacking.
 https://www.ractf.co.uk/
 
 Created by some good friends of ours as well as other members of the Cyber Discovery community, this is a great CTF for all abilities that you should register interest for.
+
 
 ### CTFLearn:
 https://ctflearn.com/
