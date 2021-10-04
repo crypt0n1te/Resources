@@ -32,6 +32,9 @@ https://www.ractf.co.uk/
 
 Created by some good friends of ours as well as other members of the Cyber Discovery community, this is a great CTF for all abilities that you should register interest for.
 
+### ae27ff:
+https://ae27ff.meme.tips/about.php
+A series of cyber puzzles presented as an ARG. Covers many topics and builds the perseverance/creative skills needed in CTFs.
 
 ### CTFLearn:
 https://ctflearn.com/
@@ -119,6 +122,13 @@ Although not explicitly linked to cyber security, you might find the below links
 https://en.wikibooks.org/wiki/LaTeX
 
 This is a great resource for learning more about Latex and its usage.
+
+### 3Blue1Brown:
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+
+This youtube channel has some of the best visuals and math explainers out there, strongly recommended whether it's for casual math enjoyment or learning a topic more intuitively than the teaching methods of most schools.
+
+
 
 ## Learning GitHub:
 Sometimes Git can be a big learning curve, below are our curated resources for mastering Git.
