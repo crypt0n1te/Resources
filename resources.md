@@ -53,6 +53,10 @@ https://tutorials.cyberaces.org/tutorials.html
 
 Just visit the link, no more needed to be said or done. 
 
+### Hacktoberfest
+https://hacktoberfest.digitalocean.com/
+Hacktoberfest is a great start to contributing to open source coding projects and learning git. It does however only run through October.
+
 **Now some more specific categories:**
 
 ## Cryptography:
