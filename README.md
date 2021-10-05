@@ -8,4 +8,4 @@ Just a general repository for resources we find. I have made this public so feel
 
 We accept pretty much any suggestions you have, ~~although free udemy courses might be crossing the line~~
 
-Soup is the very best
+~~Soup~~ Chris is the very best
