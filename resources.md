@@ -143,5 +143,9 @@ https://ohshitgit.com/
 
 The name says it all, this resource basically shows mistakes made by the author and how he fixed them.
 
+### Udemy Courses
+https://www.udemy.com/course/movement-pivoting-and-persistence/?couponCode=FREEFORMESIR
+https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course
+
 We will also update this resource as regularly as possible
 > Last updated: 12th October 2020 by Christopher Harris (@cjharris18).
