@@ -1,7 +1,6 @@
 ### Resources
 
-Just a general repository for resources we find. I have made this public so feel free to share around and update regularly.
-
+This page is no longer fully maintained, so feel free to commit freely.
 
 **Contributions are now very welcome, if you have any - please submit them here:**
 ```crypt0nite1@protonmail.com```
